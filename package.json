@@ -1,0 +1,18 @@
+{
+  "name": "values-of-keys",
+  "version": "1.0.0",
+  "description": "Get values of keys from an object.",
+  "main": "index.js",
+  "repository": "https://github.com/zhaoyao91/values-of-keys.git",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "zhaoyao91 <zhaoyao91@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^20.0.4"
+  },
+  "dependencies": {
+    "lodash.get": "^4.4.2"
+  }
+}
